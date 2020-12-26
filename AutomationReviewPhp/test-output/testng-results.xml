@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-22T01:11:57 EST" name="Default suite" finished-at="2020-11-22T01:12:11 EST" duration-ms="13089">
+  <suite started-at="2020-11-30T20:33:30 EST" name="Default suite" finished-at="2020-11-30T20:34:03 EST" duration-ms="32751">
     <groups>
     </groups>
-    <test started-at="2020-11-22T01:11:57 EST" name="Default test" finished-at="2020-11-22T01:12:11 EST" duration-ms="13089">
+    <test started-at="2020-11-30T20:33:30 EST" name="Default test" finished-at="2020-11-30T20:34:03 EST" duration-ms="32751">
       <class name="test.execution.SmokeTeatWithTestNG">
-        <test-method is-config="true" signature="getDriverSetup()[pri:0, instance:test.execution.SmokeTeatWithTestNG@6236eb5f]" started-at="2020-11-22T01:11:57 EST" name="getDriverSetup" finished-at="2020-11-22T01:12:07 EST" duration-ms="10004" status="PASS">
+        <test-method is-config="true" signature="getDriverSetup()[pri:0, instance:test.execution.SmokeTeatWithTestNG@1d8bd0de]" started-at="2020-11-30T20:33:30 EST" name="getDriverSetup" finished-at="2020-11-30T20:33:57 EST" duration-ms="27101" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriverSetup -->
-        <test-method signature="getTest()[pri:0, instance:test.execution.SmokeTeatWithTestNG@6236eb5f]" started-at="2020-11-22T01:12:07 EST" name="getTest" finished-at="2020-11-22T01:12:10 EST" duration-ms="2346" status="PASS">
+        <test-method signature="getTest()[pri:0, instance:test.execution.SmokeTeatWithTestNG@1d8bd0de]" started-at="2020-11-30T20:33:57 EST" name="getTest" finished-at="2020-11-30T20:34:02 EST" duration-ms="4549" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTest -->
-        <test-method is-config="true" signature="getClose()[pri:0, instance:test.execution.SmokeTeatWithTestNG@6236eb5f]" started-at="2020-11-22T01:12:10 EST" name="getClose" finished-at="2020-11-22T01:12:11 EST" duration-ms="698" status="PASS">
+        <test-method is-config="true" signature="getClose()[pri:0, instance:test.execution.SmokeTeatWithTestNG@1d8bd0de]" started-at="2020-11-30T20:34:02 EST" name="getClose" finished-at="2020-11-30T20:34:03 EST" duration-ms="947" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getClose -->
